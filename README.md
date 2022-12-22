@@ -1,2 +1,2 @@
-# CS300-Data_Structures
+# CS300 Data Structures
 Data Structures
